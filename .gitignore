@@ -1,1 +1,7 @@
+.idea
+
+*.iml
+
 vm_vagrant/.vagrant
+vm_vagrant/puppet/.librarian
+vm_vagrant/puppet/.tmp
